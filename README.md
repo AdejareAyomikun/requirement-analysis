@@ -29,3 +29,5 @@
   - Ensures the documented requirements accurately represent stakeholder needs.
   - Activities include reviews, walkthroughs, inspections, and requirement traceability.
   - Confirms that requirements are testable, achievable, and aligned with business goals.
+
+**Types of Requirements**
