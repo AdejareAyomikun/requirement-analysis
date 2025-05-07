@@ -31,3 +31,5 @@
   - Confirms that requirements are testable, achievable, and aligned with business goals.
 
 **Types of Requirements**
+
+**Acceptance Criteria**
