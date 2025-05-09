@@ -30,9 +30,13 @@
   - Activities include reviews, walkthroughs, inspections, and requirement traceability.
   - Confirms that requirements are testable, achievable, and aligned with business goals.
 
-**Types of Requirements**
+# Types of Requirements
 
-**Acceptance Criteria**
-
-**Use Case Diagrams**
+# Use Case Diagrams
 (https://github.com/AdejareAyomikun/requirement-analysis/blob/main/alx-booking-uc.png)
+
+# Acceptance Criteria
+**Importance of Acceptance Criteria in Requirement Analysis**
+1. Provide a basis for testing and validation.
+2. Ensure all parties have a clear understanding of feature requirements.
+3. Help in maintaining quality and meeting user expectations.
