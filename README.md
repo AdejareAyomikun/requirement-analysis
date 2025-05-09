@@ -35,4 +35,4 @@
 **Acceptance Criteria**
 
 **Use Case Diagrams**
-(https://github.com/AdejareAyomikun/requirement-analysis/blob/main/alx-booking-uc.drawio.png)
+(https://github.com/AdejareAyomikun/requirement-analysis/blob/main/alx-booking-uc.png)
